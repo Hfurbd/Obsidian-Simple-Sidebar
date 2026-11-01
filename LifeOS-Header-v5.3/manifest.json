@@ -1,0 +1,9 @@
+{
+  "id": "nocturne-dock",
+  "name": "LifeOS Header",
+  "version": "5.3.0",
+  "minAppVersion": "1.5.0",
+  "description": "Customizable LifeOS Home header with reliable Home button colors and automatic Obsidian theme color integration.",
+  "author": "OpenAI",
+  "isDesktopOnly": false
+}
