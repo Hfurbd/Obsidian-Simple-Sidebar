@@ -1,0 +1,9 @@
+{
+  "id": "nocturne-dock",
+  "name": "LifeOS Header",
+  "version": "5.2.0",
+  "minAppVersion": "1.5.0",
+  "description": "Customizable LifeOS Home header for desktop and mobile Obsidian File Explorer views, with optional panel background and border.",
+  "author": "OpenAI",
+  "isDesktopOnly": false
+}
